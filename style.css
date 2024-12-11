@@ -164,6 +164,7 @@ section {
 .btn-group{
     display: flex;
     gap: 1rem;
+    margin-top: 5px;
 }
 
 .btn {
@@ -331,22 +332,23 @@ section#aboutme {
 
 .projects-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 2rem;
+    grid-template-columns: repeat(2, 1fr); /* Muestra 2 columnas */
+    gap: 20px; /* Espacio entre las tarjetas */
+}
+
+@media (max-width: 768px) {
+    .projects-grid {
+        grid-template-columns: repeat(1, 1fr); /* En pantallas pequeñas, muestra 1 columna */
+    }
 }
 
 .project-card {
-    padding: 2rem 1rem;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-    gap: 1.5rem;
-    border: 2px solid black;
-    border-radius: 3rem;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
     cursor: pointer;
-    transition: 0.3s ease-in-out;
 }
 
 .project-card:hover {
