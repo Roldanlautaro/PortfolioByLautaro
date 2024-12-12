@@ -1,33 +1,32 @@
 # Portfolio By Lautaro
 
-## Descripción general
+## 🌟 Descripción general
 
 **Portfolio By Lautaro** es un sitio web personal diseñado para mostrar mis habilidades y proyectos en el campo del desarrollo web. El sitio está creado con HTML, CSS y JavaScript, y está diseñado para ser intuitivo y visualmente atractivo.
 
 Con un enfoque en la simplicidad y la usabilidad, el sitio presenta mis competencias y proyectos de manera clara y concisa. Cada proyecto está enlazado a demos en vivo y GitHub, permitiendo a los visitantes explorar y aprender más sobre mis habilidades y experiencia.
 
-## Características principales
+## 🖥️ Características principales
 
 - **Inicio**: Una sección de bienvenida que presenta mi perfil y mis habilidades.
 - **Sobre mí**: Una sección que describe mi experiencia y mis intereses en el campo del desarrollo web.
 - **Proyectos**: Una sección que muestra mis proyectos más destacados, con enlaces a demos en vivo y GitHub.
 - **Contacto**: Una sección que permite a los visitantes contactarme y conectarse conmigo en redes sociales.
 
-## Captura de pantalla
+## 📸 Captura de pantalla
 
 ![image](https://github.com/user-attachments/assets/f81fbb21-0b4a-4637-acf9-3677b9ff8ae7)
 
-## Enlace
+## 📊 Enlace
 
 **Live**: https://roldanlautaro.github.io/PortfolioByLautaro/
 
-## Tecnologías utilizadas
+## 🛠️  Tecnologías utilizadas
 
 - **Lenguajes**: HTML, CSS, JavaScript
-- **Frameworks y librerías**: None
 - **Herramientas**: GitHub Pages, Visual Studio Code
 
-## ¿Qué aprendí con este proyecto?
+## 🧠 ¿Qué aprendí con este proyecto?
 
 Durante el desarrollo de este proyecto, adquirí y reforcé conocimientos en:
 
@@ -35,18 +34,5 @@ Durante el desarrollo de este proyecto, adquirí y reforcé conocimientos en:
 - **Desarrollo web**: Utilizar HTML, CSS y JavaScript para crear un sitio web interactivo.
 - **GitHub Pages**: Publicar un sitio web en GitHub Pages.
 
-## ¿Cómo instalar y usar el proyecto?
-
-**Requisitos previos**:
-
-- Tener instalado un navegador web (como Google Chrome).
-- Tener una cuenta de GitHub.
-
-**Pasos para la configuración**:
-
-1. Clona el proyecto desde GitHub.
-2. Abre el proyecto en Visual Studio Code.
-3. Edita el código para personalizar el sitio web.
-4. Publica el sitio web en GitHub Pages.
 
 ¡Espero que disfrutes explorando mi portafolio tanto como yo disfruté creándolo!
