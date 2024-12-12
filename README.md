@@ -6,12 +6,16 @@
 
 Con un enfoque en la simplicidad y la usabilidad, el sitio presenta mis competencias y proyectos de manera clara y concisa. Cada proyecto está enlazado a demos en vivo y GitHub, permitiendo a los visitantes explorar y aprender más sobre mis habilidades y experiencia.
 
+---
+
 ## 🖥️ Características principales
 
 - **Inicio**: Una sección de bienvenida que presenta mi perfil y mis habilidades.
 - **Sobre mí**: Una sección que describe mi experiencia y mis intereses en el campo del desarrollo web.
 - **Proyectos**: Una sección que muestra mis proyectos más destacados, con enlaces a demos en vivo y GitHub.
 - **Contacto**: Una sección que permite a los visitantes contactarme y conectarse conmigo en redes sociales.
+
+---
 
 ## 📸 Captura de pantalla
 
@@ -21,10 +25,14 @@ Con un enfoque en la simplicidad y la usabilidad, el sitio presenta mis competen
 
 **Live**: https://roldanlautaro.github.io/PortfolioByLautaro/
 
+---
+
 ## 🛠️  Tecnologías utilizadas
 
 - **Lenguajes**: HTML, CSS, JavaScript
 - **Herramientas**: GitHub Pages, Visual Studio Code
+
+---
 
 ## 🧠 ¿Qué aprendí con este proyecto?
 
@@ -34,5 +42,6 @@ Durante el desarrollo de este proyecto, adquirí y reforcé conocimientos en:
 - **Desarrollo web**: Utilizar HTML, CSS y JavaScript para crear un sitio web interactivo.
 - **GitHub Pages**: Publicar un sitio web en GitHub Pages.
 
+---
 
 ¡Espero que disfrutes explorando mi portafolio tanto como yo disfruté creándolo!
